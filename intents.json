@@ -16,7 +16,7 @@
         },
         {"tag": "name",
          "patterns": ["what is your name", "what should I call you", "whats your name?"],
-         "responses": ["You can call me Edi.", "I'm Edi!", "I'm Tim aka Tech With Edi."],
+         "responses": ["You can call me Edi.", "I'm Edi!"],
          "context_set": ""
         }
 
